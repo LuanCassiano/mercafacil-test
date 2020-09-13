@@ -8,7 +8,7 @@ Neste projeto foi utilizado as seguintes tecnologias:
 -   Postgres
 -   Docker
 
-Antes de iniciar o projeto é recomendado criar um arquivo .env seguindo o exemplo do arquivo .env.test
+Antes de iniciar o projeto é recomendado criar um arquivo .env seguindo o exemplo do arquivo .env.example
 
 Após baixar o projeto rode o seguinte comando para instalar as dependências:
 
